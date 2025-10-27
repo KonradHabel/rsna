@@ -1,0 +1,9 @@
+torch==2.6.0
+albumentations==2.0.8
+dicomsdl==0.109.4
+timm=1.0.20
+psutil
+numpy_ringbuffer
+torch-ema
+transformers
+scikit-learn
